@@ -45,12 +45,12 @@ Innovative **Software Engineer and Technology Executive** with a proven track re
 
 **Tallinna Tehnikagümnaasium**
 *High School Diploma | 2021 – 2024*  
+- **Codesters.club** – Certificate of completion (12/04/2024) - The Wise favourite! Contributed to coding community initiatives, fostering collaboration and learning. [codesters.club](https://www.codesters.club)
 
 ---
 
 ## Selected Projects
-- **Skeemitehnika Projekt 2025** – Designed and implemented an **Arduino Nano digital input extension** to enhance hardware capabilities. [GitHub Repository](https://github.com/n0ll0/skeemitehnika-projekt-2025)  
-- **Codesters.club** – Contributed to coding community initiatives, fostering collaboration and learning.  
+- **Skeemitehnika Projekt 2025** – Part of the analog team, worked on a light level sensor or measuring device (valgustaseme andur või mõõtevahend). [GitHub Repository](https://github.com/n0ll0/skeemitehnika-projekt-2025)  
 - **Portfolio Projects** – Showcased diverse technical work in backend, frontend, and UI/UX design.  
 
 ---
