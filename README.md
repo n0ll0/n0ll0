@@ -1,27 +1,6 @@
 # n0ll0
 
-## Contact Information
-- **Location:** Tallinn, Estonia  
-- **LinkedIn:** [linkedin.com/in/uko-poschlin-a62945244](https://www.linkedin.com/in/uko-poschlin-a62945244)  
-- **GitHub:** [github.com/n0ll0](https://github.com/n0ll0)  
-- **Portfolio:** [n0ll0.github.io/n0ll](https://n0ll0.github.io/n0ll/)  
-- **Company:** [nebeas.com](https://nebeas.com/)  
-
----
-
-## Professional Summary
 Innovative **Software Engineer and Technology Executive** with a proven track record in **backend development, UI/UX design, and scalable system architecture**. Co-Founder and CTO of **Nebeas OÜ**, specializing in custom software solutions, automation, and digital transformation for businesses. Experienced in leading teams, building efficient systems, and delivering products that merge technical excellence with business impact. Passionate about **problem-solving, efficiency, and creating robust digital ecosystems**.
-
----
-
-## Core Competencies
-- **Programming & Development:** JavaScript, Python, PHP, Golang, Rust, HTML, CSS  
-- **Systems & Tools:** Docker, Git, Automation, ERP/CMS/CRM development  
-- **Leadership & Strategy:** CTO experience, project management, startup growth, executive decision-making  
-- **Design & UX:** UI/UX design, web development, SEO optimization, product branding  
-- **Innovation:** Hardware/software integration (Arduino Nano extension project), scalable architectures  
-
----
 
 ## Professional Experience
 
@@ -38,27 +17,29 @@ Innovative **Software Engineer and Technology Executive** with a proven track re
 - Implemented backend systems and optimized workflows for efficiency.  
 - Coordinated cross-functional teams to deliver innovative solutions.  
 
----
-
 ### Codesters.club
 
 Certificate of completion (12/04/2024) - The Wise favourite! Contributed to coding community initiatives, fostering collaboration and learning. [codesters.club](https://www.codesters.club)
 
 ---
 
-## Selected Projects
-- **Skeemitehnika Projekt 2025** – Part of the analog team, worked on a light level sensor or measuring device (valgustaseme andur või mõõtevahend). [GitHub Repository](https://github.com/n0ll0/skeemitehnika-projekt-2025)  
-- **Portfolio Projects** – Showcased diverse technical work in backend, frontend, and UI/UX design.  
+- **Programming & Development:** any kind of Web technologies; Embedded systems
+- **Systems & Tools:** whatever it takes to have a simple app running as cheap as possible 
+- **Leadership & Strategy:** CTO experience, project management, startup growth, executive decision-making  
+- **Design & UX:** UI/UX design, web development, SEO optimization, product branding  
+- **Innovation:** Hardware/software integration (Arduino Nano extension project), scalable architectures  
 
 ---
 
 ## Achievements
 - Transitioned from **game-based processor design in Scrap Mechanic** to professional software engineering.  
 - Recognized for **efficiency-driven development**: delivering complex systems in reduced timeframes.  
-- Established Nebeas OÜ as a growing **software development and automation company** in Estonia.  
+- Established Nebeas OÜ as a growing **software development and automation company** in Estonia.
+- Now doing a bachelors for Hardware engineering
 
----
-
-## Executive & Technical Fit
-- **For Software Engineer roles:** Demonstrates strong technical foundation, diverse programming expertise, and hands-on project experience.  
-- **For Executive roles:** Proven leadership as CTO, entrepreneurial success, and ability to align technical solutions with business strategy.
+## Contact Information
+- **Location:** Estonia  
+- **LinkedIn:** [linkedin.com/in/uko-poschlin-a62945244](https://www.linkedin.com/in/uko-poschlin-a62945244)  
+- **GitHub:** [github.com/n0ll0](https://github.com/n0ll0)  
+- **Portfolio:** [n0ll0.github.io/n0ll](https://n0ll0.github.io/n0ll/)  
+- **Company:** [nebeas.com](https://nebeas.com/)  
