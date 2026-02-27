@@ -1,7 +1,6 @@
-# Curriculum Vitae – Uko Poschlin
+# n0ll0
 
 ## Contact Information
-- **Name:** Uko Poschlin  
 - **Location:** Tallinn, Estonia  
 - **LinkedIn:** [linkedin.com/in/uko-poschlin-a62945244](https://www.linkedin.com/in/uko-poschlin-a62945244)  
 - **GitHub:** [github.com/n0ll0](https://github.com/n0ll0)  
@@ -11,7 +10,7 @@
 ---
 
 ## Professional Summary
-Innovative **Software Engineer and Technology Executive** with a proven track record in **backend development, UI/UX design, and scalable system architecture**. Founder and CTO of **Nebeas OÜ**, specializing in custom software solutions, automation, and digital transformation for businesses. Experienced in leading teams, building efficient systems, and delivering products that merge technical excellence with business impact. Passionate about **problem-solving, efficiency, and creating robust digital ecosystems**.
+Innovative **Software Engineer and Technology Executive** with a proven track record in **backend development, UI/UX design, and scalable system architecture**. Co-Founder and CTO of **Nebeas OÜ**, specializing in custom software solutions, automation, and digital transformation for businesses. Experienced in leading teams, building efficient systems, and delivering products that merge technical excellence with business impact. Passionate about **problem-solving, efficiency, and creating robust digital ecosystems**.
 
 ---
 
@@ -41,11 +40,9 @@ Innovative **Software Engineer and Technology Executive** with a proven track re
 
 ---
 
-## Education
+### Codesters.club
 
-**Tallinna Tehnikagümnaasium**
-*High School Diploma | 2021 – 2024*  
-- **Codesters.club** – Certificate of completion (12/04/2024) - The Wise favourite! Contributed to coding community initiatives, fostering collaboration and learning. [codesters.club](https://www.codesters.club)
+Certificate of completion (12/04/2024) - The Wise favourite! Contributed to coding community initiatives, fostering collaboration and learning. [codesters.club](https://www.codesters.club)
 
 ---
 
@@ -59,12 +56,6 @@ Innovative **Software Engineer and Technology Executive** with a proven track re
 - Transitioned from **game-based processor design in Scrap Mechanic** to professional software engineering.  
 - Recognized for **efficiency-driven development**: delivering complex systems in reduced timeframes.  
 - Established Nebeas OÜ as a growing **software development and automation company** in Estonia.  
-
----
-
-## Languages
-- **Estonian** – Native  
-- **English** – Fluent  
 
 ---
 
