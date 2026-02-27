@@ -1,6 +1,6 @@
 # n0ll0
 
-Innovative **Software Engineer and Technology Executive** with a proven track record in **backend development, UI/UX design, and scalable system architecture**. Co-Founder and CTO of **Nebeas OÜ**, specializing in custom software solutions, automation, and digital transformation for businesses. Experienced in leading teams, building efficient systems, and delivering products that merge technical excellence with business impact. Passionate about **problem-solving, efficiency, and creating robust digital ecosystems**.
+Innovative **Software Engineer and Technology Executive** with a proven track record in **Web development, UI/UX design, and scalable system architecture**. Co-Founder and CTO of **Nebeas OÜ**, specializing in custom software solutions, automation, and digital transformation for businesses. Experienced in leading teams, building efficient systems, and delivering products that merge technical excellence with business impact.
 
 ## Professional Experience
 
